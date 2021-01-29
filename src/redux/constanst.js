@@ -1,0 +1,5 @@
+export const GET_ALL_PRODUCTS = "GET_ALL_PRODUCTS"
+
+export const GET_PRODUCTS_BYID = "GET_PRODUCTS_BYID" 
+
+export const ADDTOCARD = "ADDTOCARD"
